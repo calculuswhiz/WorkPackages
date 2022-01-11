@@ -193,7 +193,8 @@ publish/
 PublishScripts/
 
 # NuGet Packages
-*.nupkg
+# The whole point is to transfer nuget packages
+#*.nupkg
 # NuGet Symbol Packages
 *.snupkg
 # The packages folder can be ignored because of Package Restore
